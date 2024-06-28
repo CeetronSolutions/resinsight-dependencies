@@ -27,7 +27,11 @@ Binaries will be available at
     vcpkg\packages\openssl_x64-windows\bin\libssl-1_1-x64.dll 
 
 ## History
+2024.06 : Improved EGrid reader in opm_common
+
 2024.06 : Add OpenSSL 1.1.1
+
 2023.08 : Added support for node vector names
+
 
 https://github.com/OPM/ResInsight
