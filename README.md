@@ -7,8 +7,8 @@ https://github.com/OPM/ResInsight/blob/459dea64c7a417f26343ccb064c3b4390a2ab609/
 
 Build custom-opm-common in both _Debug_ and _Release_. Create `custom-opm-common.zip` containing
     
-    custom-opm-common.lib
-    custom-opm-common_debug.lib
+    custom-opm-common/custom-opm-common.lib
+    custom-opm-common/custom-opm-common_debug.lib
 
 
 ## How to build OpenSSL 1.1.1
